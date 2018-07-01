@@ -8,7 +8,6 @@ The goals / steps of this project are the following:
 * Analyze the softmax probabilities of the new images
 * Summarize the results with a written report
 
-<img src="examples/random_noise.jpg.jpg" width="480" alt="Combined Image" />
 <img src="examples/nopassing.jpg" width="480" alt="Combined Image" />
 <img src="examples/straightorright.jpg" width="480" alt="Combined Image" /
 
