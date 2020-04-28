@@ -169,6 +169,6 @@ the sign is bycicle corssing.
 For the second image, the model have a very impressive result with 99% that the sign is nopassing, and it 
 correct, the same with other 3 signs, straightorright, roadword and childrencrossing.
 
-
+add new commit
 
 
